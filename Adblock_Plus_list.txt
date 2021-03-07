@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: 豆腐フィルタ
-! Homepage: http://tofukko.r.ribbon.to/abp.html
+! Homepage: https://github.com/tofukko/filter
 !
 ! 最終更新 2021/02/19 16:30
 !
